@@ -1,19 +1,30 @@
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-sm-3 px-1 bg-dark">
-            <div class="py-2 sticky-top flex-grow-1">
-                <div class="nav flex-sm-column">
-                    <a href="" class="nav-link d-none d-sm-inline">Sidebar</a>
-                    <a href="" class="nav-link">Link</a>
-                    <a href="" class="nav-link">Link</a>
-                    <a href="" class="nav-link">Link</a>
-                    <a href="" class="nav-link">Link</a>
-                    <a href="" class="nav-link">Link</a>
-                </div>
-            </div>
+<div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        Start Bootstrap
+                    </a>
+                </li>
+                <li>
+                    <a href="#">Dashboard</a>
+                </li>
+                <li>
+                    <a href="#">Shortcuts</a>
+                </li>
+                <li>
+                    <a href="#">Overview</a>
+                </li>
+                <li>
+                    <a href="#">Events</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
         </div>
-        <div class="col" id="main">
-            <h1>Main Area</h1>
-        </div>
-    </div>
-</div>
